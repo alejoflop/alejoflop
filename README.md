@@ -11,3 +11,8 @@
 - 📲 Besides, I bring a wealth of experience in web development, having worked on projects utilizing a wide array of technologies, including HTML, CSS, JavaScript, and ReactJS.
 - 🎷 A technology enthusiast and music lover, with a particular passion for playing the saxophone.
 
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, JavaScript
+- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
+- **Databases:** MySQL
+- **Tools:** Anaconda, Jupyter Notebook, Power BI
