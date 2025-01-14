@@ -6,7 +6,7 @@
 🔗 **LinkedIn:** [Alejandro Florez](https://www.linkedin.com/in/alejandroflorezl/?locale=en_US)  
 👨‍💻 **GitHub:** [alejoflop](https://github.com/alejoflop)
 
-💻 **Web Portfolio:** [Alejo.dev](https://dev-alejo.vercel.app/)
+💻 **Web Portfolio:** [Alejo.dev](https://dev-alejo.vercel.app/en.html)
 
 ### About Me 🌐
 - 👨🏽‍💻 As a data analyst and scientist, I thrive on extracting insights from complex datasets. Explore my diverse range of projects, spanning from insightful data analysis and visualization to the creation of sophisticated machine learning models and statistical tools.
