@@ -5,6 +5,7 @@
 📍 **Medellín**  
 🔗 **LinkedIn:** [Alejandro Florez](https://www.linkedin.com/in/alejandroflorezl/?locale=en_US)  
 👨‍💻 **GitHub:** [alejoflop](https://github.com/alejoflop)
+
 💻 **Web Portfolio:** [Alejo.dev]([https://github.com/alejoflop](https://dev-alejo.vercel.app/))
 
 ### About Me 🌐
