@@ -14,13 +14,13 @@
   </a>
 </p>
 
-### 📌 About Me
+## 📌 About Me
 
 - 📊 **Data Analytics & BI Pipelines:** I specialize in transforming complex, unstructured datasets into automated ETL workflows, relational star schemas, and interactive executive dashboards using **Python, SQL, and Power BI**.
 - 🎵 **Music Industry & Royalty Specialist:** Leveraging a background in International Business and Finance to conduct catalog auditing, DSP streaming data ingestion (Spotify, Apple Music), and royalty statement reconciliation.
 - 🎓 **Education & Background:** Specialized in Finance, certified in Data Science, and a passionate saxophonist studying instrumental performance.
 
-### 🛠️ Tech Stack & Domain Expertise
+## 🛠️ Tech Stack & Domain Expertise
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -29,12 +29,12 @@
 | **Industry Specialization** | Financial Transaction Analytics, Royalty Auditing, DSP Report Processing, Catalog Reconciliation |
 | **Tooling & Environments** | SQL Server Management Studio (SSMS), VS Code, Jupyter Notebooks, Git/GitHub |
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 * 💳 **[Financial Transaction Analytics & Fraud Detection Dashboard](https://github.com/alejoflop/financial-fraud-analytics)**
   *Engineered an end-to-end data pipeline processing 13.3M+ records using Python ETL, constructed a SQL Server Star Schema, and built an executive Power BI risk tracking dashboard ($571.8M processed volume).*
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandroflorezl/">
