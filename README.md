@@ -8,12 +8,6 @@
   💻 <b>Portfolio:</b> <a href="https://dev-alejo.vercel.app/en.html">Alejo.dev</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/alejoflop">
-    <img src="https://img.shields.io/github/followers/alejoflop?style=social" alt="GitHub Followers">
-  </a>
-</p>
-
 ## 📌 About Me
 
 - 📊 **Data Analytics & BI Pipelines:** I specialize in transforming complex, unstructured datasets into automated ETL workflows, relational star schemas, and interactive executive dashboards using **Python, SQL, and Power BI**.
